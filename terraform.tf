@@ -8,7 +8,7 @@ terraform {
     }
   }
   backend "remote" {
-    organization = "example-org-580a9f"
+    organization = "example-org-743b93"
 
     workspaces {
       name = "app-build"
